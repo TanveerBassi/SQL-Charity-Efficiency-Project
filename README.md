@@ -1,0 +1,1 @@
+A project that takes top 10 charities from the Charity Commison and finds the most charitiable based on the funds they donate to charitable activities (rather than administrative or fundraising expenses) 
